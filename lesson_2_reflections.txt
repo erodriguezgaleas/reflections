@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 Se crear la carpeta del sistema -oculta- con la información del proyecto del git. Se debe agregar el/los archivos qeu van a ser controlados sus versiones con el git.
 
 If you accidentally add a file to the staging area, you can remove it using git reset. For example, if you accidentally add lesson_2_reflections.txt, but don’t want it to be committed yet, run git reset lesson_2_reflections.txt and the file will be removed from the staging area, but it will still be in your working directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Area temporal que agrupa varios archivos a ser versionados, oprtimiza el proceso de versionamiento considerando archivos posiblemente relacionados en lugar de manejarlos sin relación y aislados.
