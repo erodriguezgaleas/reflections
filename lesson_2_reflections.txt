@@ -5,3 +5,6 @@ If you accidentally add a file to the staging area, you can remove it using git 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Area temporal que agrupa varios archivos a ser versionados, oprtimiza el proceso de versionamiento considerando archivos posiblemente relacionados en lugar de manejarlos sin relación y aislados.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Permite definir un punto logico con varios files al tiempo.
