@@ -1,0 +1,47 @@
+﻿How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Facilita la rápida identificación de código introducido en las líneas de 
+    programación, esto siempre y cuando tengamos versionados los códigos cada vez
+    que hagamos cambios planificados sobre versiones estables (funcionales).
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Permitiria comparar la forma como conforme se adquieren 
+    conocimientos en programación se optimizan líneas de programación
+    y facilitaría el volver a versiones de programación para corregir 
+    errorores de programación de forma ágil y rápida.
+
+What do you think are the pros and cons of manually choosing when to
+create a commit, like you do in Git, vs having versions automatically 
+saved, like Googledocs does?
+
+    Contra: Probablemente si no tenemos la costumbre perdamos alguna
+    importante revisión del proyecto.
+
+    Pro: Permite tener un control lógico de las versiones de acuerdo
+    al criterio (acertador) del programador.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git está orientado a programación donde es común este tipo de 
+    cambios en varios archivos e un intervalo de tiempo.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log permite ver la meta data de los commits en el tiempo y git diff 
+    permite mirar detalladamente los cambios en los archivos de acuerdo al ID
+    de los commit que son parametros de comando get diff.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    El uso del git diff facilita identificar el código del bug y checkout 
+    facilita poder regresar a un punto de control de código estable (x eso
+    es importante que los commit sean un puto lógico estable)
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    No sé -aún-
