@@ -1,3 +1,4 @@
+CApitulo 2
 What happens when you initialize a repository? Why do you need to do it?
 Se crear la carpeta del sistema -oculta- con la información del proyecto del git. Se debe agregar el/los archivos qeu van a ser controlados sus versiones con el git.
 
@@ -7,4 +8,4 @@ How is the staging area different from the working directory and the repository?
 Area temporal que agrupa varios archivos a ser versionados, oprtimiza el proceso de versionamiento considerando archivos posiblemente relacionados en lugar de manejarlos sin relación y aislados.
 
 How can you use the staging area to make sure you have one commit per logical change?
-Permite definir un punto logico con varios files al tiempo.
+Permite definir un punto logico con varios files al tiempo. 
