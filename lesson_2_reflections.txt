@@ -9,3 +9,16 @@ Area temporal que agrupa varios archivos a ser versionados, oprtimiza el proceso
 
 How can you use the staging area to make sure you have one commit per logical change?
 Permite definir un punto logico con varios files al tiempo. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Permite mantener versionas paralelas de lo archivos a ser versionados.
+
+How do the diagrams help you visualize the branch structure?
+Hacen facil la identificación de los padre/hijos y de las relaciones existentes entre los branches y las verisones
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Combinar lineas de codigo trabajados en un mismo archivo por separado por miembros de un mismo equipo p.e. para darle funcionalidades nuevas trabajando paralelamente.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+La Resolución de conflictos.
