@@ -10,3 +10,7 @@ Tener un punto de control lógico sobre los commits en los archivos
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 frosk is used to copy a git repository between github respositories, clone is uses to copy repository in local or between local and remote and brnaces is to create version over a git repositories.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Set up to date all changes and branches and preventing sync error.
